@@ -63,6 +63,25 @@ main/
 ## 📌 Conclusion
 Urban regions such as London, Birmingham, and Manchester show high facility density, while several rural and coastal regions remain underserved relative to population. This analysis highlights the need for targeted NHS resource allocation to ensure equitable healthcare access across the UK.
 
+## 🛡️ Data Disclaimer
+
+The dataset used in this project is sourced from the official **NHS Organisation Data Service (ODS)**.  
+Due to licensing restrictions, privacy policies, and NHS data usage rules, the **original dataset cannot be uploaded to this repository**.
+
+Only **processed outputs**, **visualizations**, and **non-sensitive summary insights** are included in this project.
+
+### 📌 Data Source:
+NHS Organisation Data Service (ODS)  
+https://digital.nhs.uk/services/organisation-data-service
+
+### ✔ Compliance Notes:
+- No raw NHS CSV files are stored in this repository  
+- No sensitive or identifiable information is shared  
+- Only aggregated analytics and plots are published  
+- Users should download the official dataset directly from NHS Digital if required  
+
+If you need access to the dataset, please obtain it from the official NHS source above.
+
 ---
 
 ## 📧 Contact
