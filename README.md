@@ -36,23 +36,25 @@ NHS-Healthcare-Access-Analysis/
 
 ## 📊 Visualizations
 
-### **1️⃣ Cities with Most NHS Facilities**
-![Cities](images/Cities_with_Most_NHS_Facilities.png)
 
-### **2️⃣ Correlation Heatmap**
-![Correlation](images/Correlation_heatmap.png)
+### 5️⃣ Hospital Type Distribution
+![Hospital1](images/Hospital%20type%20distribution.png)
 
-### **3️⃣ Count of NHS Organisations by Type**
-![Count](images/Count_of_NHS_Organisations_by_type.png)
+### 6️⃣ Hospital Type Distribution (Detailed)
+![Hospital2](images/Hospital%20type%20distribution2.png)
 
-### **4️⃣ Healthcare Access Inequality (Population Per NHS Facility)**
-![Inequality](images/Healthcare_Access_Inequality_Population_Per_NHS_Facility.png)
+### 1️⃣ Cities with Most NHS Facilities
+![Cities](images/Cities%20with%20Most%20NHS%20Facilities.png)
 
-### **5️⃣ Hospital Type Distribution**
-![Hospital1](images/Hospital_type_distribution.png)
+### 2️⃣ Correlation Heatmap
+![Correlation](images/Correlation%20heatmap.png)
 
-### **6️⃣ Hospital Type Distribution (Detailed)**
-![Hospital2](images/Hospital_type_distribution2.png)
+### 3️⃣ Count of NHS Organisations by Type
+![Count](images/Count%20of%20NHS%20Organisations%20by%20type.png)
+
+### 4️⃣ Healthcare Access Inequality (Population Per NHS Facility)
+![Inequality](images/Healthcare%20Access%20Inequality%20Population%20Per%20NHS%20Facility.png)
+
 
 
 ---
