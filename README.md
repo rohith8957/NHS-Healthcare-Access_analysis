@@ -35,7 +35,7 @@ main/
 ### 2️⃣ Correlation Heatmap
 ![Correlation](images/Correlation%20heatmap.png)
 
-### 3️⃣ Count of NHS Organisations by Type
+### 3️⃣ Count of NHS Organisations by type
 ![Count](images/Count%20of%20NHS%20Organisations%20by%20type.png)
 
 ### 4️⃣ Healthcare Access Inequality (Population Per NHS Facility)
