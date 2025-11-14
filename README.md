@@ -27,26 +27,69 @@ main/
 
 
 ---
-## 📊 Visualizations
+## 📊 Visualizations & Insights
+
+---
 
 ### 1️⃣ Cities with Most NHS Facilities
 ![Cities](images/Cities%20with%20Most%20NHS%20Facilities%20.png)
 
+### 📝 Insight
+This chart highlights the UK cities with the highest concentration of NHS healthcare facilities.  
+It shows strong urban clustering, indicating that major cities have significantly better healthcare access.  
+This helps identify regions with dense hospital availability for effective resource allocation.
+
+---
+
 ### 2️⃣ Correlation Heatmap
 ![Correlation](images/Correlation%20heatmap.png)
 
-### 3️⃣ Count of NHS Organisations by type
+### 📝 Insight
+The correlation heatmap visualizes relationships between various dataset features.  
+It reveals important patterns and associations across attributes related to healthcare distribution.  
+This helps understand how multiple variables interact within NHS data.
+
+---
+
+### 3️⃣ Count of NHS Organisations by Type
 ![Count](images/Count%20of%20NHS%20Organiations%20by%20type.png)
 
-### 4️⃣ Healthcare Access Inequality (Population Per NHS Facility)
+### 📝 Insight
+This visualization displays how NHS organisations are distributed across different categories.  
+It highlights the dominance of general hospitals and community services within the system.  
+This provides a clear view of NHS infrastructure structure and functional focus.
+
+---
+
+### 4️⃣ Healthcare Access Inequality (Population Per Facility)
 ![Inequality](images/Healthcare%20Access%20Inequality%20Population%20Per%20NHS%20Facility%20.png)
+
+### 📝 Insight
+This chart compares regional populations with the number of NHS facilities.  
+Higher values indicate areas where each facility serves a larger population, suggesting possible healthcare inequality.  
+These insights help identify underserved regions requiring additional NHS investment.
+
+---
 
 ### 5️⃣ Hospital Type Distribution
 ![Hospital1](images/Hospital%20type%20distribution.png)
 
+### 📝 Insight
+This bar chart provides an overview of different hospital types across the NHS system.  
+It shows the distribution of general, teaching, specialist, and community hospitals.  
+The visualization helps assess the specialization mix and infrastructure diversity.
+
+---
+
 ### 6️⃣ Hospital Type Distribution (Detailed)
 ![Hospital2](images/Hospital%20type%20distribution2.png)
 
+### 📝 Insight
+This extended chart offers a more detailed breakdown of hospital categories.  
+It highlights less common and specialized healthcare facilities within the NHS network.  
+Such granularity is useful for deeper policy analysis and regional healthcare planning.
+
+---
 
 
 ---
